@@ -22,7 +22,7 @@ I've been working in Machine Learning for 3 years, after switching careers. I st
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" title="PyTorch" alt="PyTorch" width="36" height="36"/></a>
   <a href="https://tsfresh.readthedocs.io/en/latest/" target="_blank" rel="noreferrer"><img src="https://tsfresh.readthedocs.io/en/latest/_images/tsfresh_logo.svg" title="tsfresh" alt="tsfresh" width="36" height="36"/></a>
   <a href="https://shap.readthedocs.io/en/latest/" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fit:592/format:webp/1*z8YJEVnZubNy0yG-WtCLbg.jpeg" title="shap" alt="shap" width="36" height="36"/></a>
-  <a href="https://spark.apache.org/docs/3.3.1/api/python/index.html#:~:text=PySpark%20is%20an%20interface%20for,data%20in%20a%20distributed%20environment." target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/format:webp/1*nPcdyVwgcuEZiEZiRqApug.jpeg" title="PySpark" alt="PySpark" width="28" height="36"/></a>
+  <a href="https://spark.apache.org/docs/3.3.1/api/python/index.html#:~:text=PySpark%20is%20an%20interface%20for,data%20in%20a%20distributed%20environment." target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/format:webp/1*nPcdyVwgcuEZiEZiRqApug.jpeg" title="PySpark" alt="PySpark" width="36" height="28"/></a>
 </div>
 
 ### Other Skills
