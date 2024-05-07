@@ -1,5 +1,5 @@
 # Hi there 👋 My name is Nadezhda Gavrikova
-===================================
+============================
 Data Scientist | ML Engineer
 ----------------------------
 I've been working in Machine Learning for 3 years, after switching careers. I started my way in science (space flight mechanics), therefore I have a strong mathematical education and a wide research experience.
