@@ -10,7 +10,7 @@ I've been working in Machine Learning for 3 years, after switching careers. I st
 ### ML Skills
 
 <div>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="36" height="36"/></a>;
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="36" height="36"/></a>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="36" height="36"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="36" height="36"/>&nbsp;
   <img src="https://matplotlib.org/_static/images/documentation.svg" title="Matplotlib" alt="Matplotlib" width="36" height="36"/>&nbsp;
