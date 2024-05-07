@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Nadezhda Gavrikova
+# Hi there 👋 My name is Nadezhda Gavrikova
 ===================================
 
 Data Scientist | ML Engineer
