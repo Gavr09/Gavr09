@@ -22,13 +22,14 @@ I've been working in Machine Learning for 3 years, after switching careers. I st
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" title="PyTorch" alt="PyTorch" width="36" height="36"/></a>
   <a href="https://tsfresh.readthedocs.io/en/latest/" target="_blank" rel="noreferrer"><img src="https://tsfresh.readthedocs.io/en/latest/_images/tsfresh_logo.svg" title="tsfresh" alt="tsfresh" width="36" height="36"/></a>
   <a href="https://shap.readthedocs.io/en/latest/" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fit:592/format:webp/1*z8YJEVnZubNy0yG-WtCLbg.jpeg" title="shap" alt="shap" width="36" height="36"/></a>
-  <a href="https://spark.apache.org/docs/3.3.1/api/python/index.html#:~:text=PySpark%20is%20an%20interface%20for,data%20in%20a%20distributed%20environment." target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/format:webp/1*nPcdyVwgcuEZiEZiRqApug.jpeg" title="PySpark" alt="PySpark" width="36" height="36"/></a>
+  <a href="https://spark.apache.org/docs/3.3.1/api/python/index.html#:~:text=PySpark%20is%20an%20interface%20for,data%20in%20a%20distributed%20environment." target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/format:webp/1*nPcdyVwgcuEZiEZiRqApug.jpeg" title="PySpark" alt="PySpark" width="28" height="36"/></a>
 </div>
 
 ### Other Skills
 
 <div>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" title="Git" alt="Git" width="36" height="36"/></a>
+  <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"><img src="https://images.ctfassets.net/xz1dnu24egyd/3FbNmZRES38q2Sk2EcoT7a/a290dc207a67cf779fc7c2456b177e9f/press-kit-icon.svg" title="GitLab" alt="GitLab" width="36" height="36"/></a>
   <a href="https://dvc.org/" target="_blank" rel="noreferrer"><img src="https://dvc.org/img/logos/dvc.svg" title="DVC" alt="DVC" width="36" height="36"/></a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" title="VS Code" alt="VS Code" width="36" height="36"/></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" title="Figma" alt="Figma" width="36" height="36"/></a>
