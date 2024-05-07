@@ -3,7 +3,7 @@ Data Scientist | ML Engineer
 ----------------------------
 I've been working in Machine Learning for 3 years, after switching careers. I started my way in science (space flight mechanics), therefore I have a strong mathematical education and a wide research experience.
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on several pet-projects
 - 🌱 I’m currently learning CV, NLP
 - ⚡ Fun fact: ...
 
@@ -14,10 +14,12 @@ I've been working in Machine Learning for 3 years, after switching careers. I st
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="36" height="36"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="36" height="36"/>&nbsp;
   <img src="icons/matplotlib/matplotlib-original-wordmark.svg" title="Matplotlib" alt="Matplotlib" width="36" height="36"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Sklearn" alt="Sklearn" width="36" height="36"/>&nbsp;  
-  <img src=https://lightgbm.readthedocs.io/en/latest/_images/LightGBM_logo_black_text.svg" title="LGBM" alt="LGBM" width="36" height="36"/>&nbsp;
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title="Seaborn" alt="Seaborn" width="36" height="36"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Sklearn" alt="Sklearn" width="36" height="36"/>&nbsp;  
+  <img src=https://user-images.githubusercontent.com/7608904/90947747-e2d40c00-e3fd-11ea-9472-fc79e1a20bd9.png" title="LGBM" alt="LGBM" width="36" height="36"/>&nbsp;
   <img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" title="XGBoost" alt="XGBoost" width="36" height="36"/>&nbsp;
   <img src="https://avatars.githubusercontent.com/u/29043415?s=200&v=4" title="CatBoost" alt="CatBoost" width="36" height="36"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" title="PyTorch" alt="PyTorch" width="36" height="36"/>&nbsp;
 </div>
 
 ### Other Skills
