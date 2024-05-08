@@ -32,8 +32,9 @@ I've been working in Machine Learning for 3 years, after switching careers. I st
   <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"><img src="https://images.ctfassets.net/xz1dnu24egyd/3FbNmZRES38q2Sk2EcoT7a/a290dc207a67cf779fc7c2456b177e9f/press-kit-icon.svg" title="GitLab" alt="GitLab" width="36" height="36"/></a>
   <a href="https://dvc.org/" target="_blank" rel="noreferrer"><img src="https://dvc.org/img/logos/dvc.svg" title="DVC" alt="DVC" width="36" height="36"/></a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" title="VS Code" alt="VS Code" width="36" height="36"/></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" title="Figma" alt="Figma" width="36" height="36"/></a>
+  <a href="https://app.supervisely.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/69914345?s=200&v=4" title="Supervisely" alt="Supervisely" width="36" height="36"/></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" title="Docker" alt="Docker" width="36" height="36"/></a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" title="Figma" alt="Figma" width="36" height="36"/></a>
 </div>
 
 ### Socials
